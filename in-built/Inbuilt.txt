@@ -1,0 +1,9 @@
+They all are in java folder thats why we use java.time, java.io, java.util, etc
+**lang: It contains important language specific stuff. Provides fundamental classes like String, Math, Integer, System, Thread, etc.
+**io: Supports input and output operations with classes like File, BufferedReader, PrintWriter, etc.
+**util: Contains utility classes like ArrayList, HashMap, Collections, Date, etc.
+**time: Contains date and time-related classes like LocalDate, LocalTime, Duration, etc.
+**crypto: Provides encryption and security features.
+**applet:
+**awt:
+**net:

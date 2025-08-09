@@ -1,0 +1,3 @@
+wrapping up the implementaion of the data members and methods in a class
+focus on internal 
+implementaion level

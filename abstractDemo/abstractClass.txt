@@ -1,0 +1,2 @@
+we cannot create abstract constructors.
+we cannot override static methods that's why we cannot create abstract static method

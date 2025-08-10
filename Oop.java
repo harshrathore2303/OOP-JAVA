@@ -60,7 +60,7 @@ class Student {
     
     Student(int roll, String name, int[] marks){
         //here this is referencing kunal or we can say 'this' will reference the object that is created using Student class
-        //'this' cannot be used inside static methods
+        //'this' cannot be used inside static methods because this refers to the current object’s reference — but a static method runs without any object, so there is no this to refer to.
         // System.out.println(this);
         this.roll = roll;
         this.name = name;

@@ -5,8 +5,8 @@ public class Main {
         Son ss = new Son(21);
         ss.career();
         Daughter dd = new Daughter(22);
+        dd.greet();
         dd.career();
-        Parent.hello();;
-
+        Parent.hello(); // hello() is a static method
     }
 }

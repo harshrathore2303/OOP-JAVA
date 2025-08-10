@@ -1,0 +1,17 @@
+# Java Syllabus
+- About Java
+- Power of Java
+- History
+- Why Java?
+- What you need before getting started?
+- Assember Vs Interpreter Vs Compiler
+- Source Code in Java (public class, main method, command line arguments, Why use command line arguments?, System.out.println())
+- Basic Syntax
+- OOP (4 pillars with examples, Access modifiers, static, this)
+- Annotations
+- Interfaces
+- Enums
+- Generics
+- All about wrapper classes
+- Other Classes
+- Collections

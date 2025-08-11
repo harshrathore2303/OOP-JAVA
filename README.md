@@ -15,3 +15,6 @@
 - All about wrapper classes
 - Other Classes
 - Collections
+- Also read about garbage collection by overriding finalize() method from Object class
+- Covariant method overriding
+- Checked and Unchecked exceptions

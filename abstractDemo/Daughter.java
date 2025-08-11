@@ -6,6 +6,10 @@ public class Daughter extends Parent {
         super(age);
     }
 
+    void cooking(){
+        System.out.println("Cooks delicious food.");
+    }
+
     @Override
     void career() {
         System.out.println("I am going to be a Teacher");

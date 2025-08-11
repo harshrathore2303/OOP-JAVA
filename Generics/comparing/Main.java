@@ -4,6 +4,13 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 public class Main {
+    static class Com implements Comparator<Integer>{
+        @Override
+        public int compare(Integer o1, Integer o2) {
+            // TODO Auto-generated method stub
+            return 0;
+        }
+    } 
     public static void main(String[] args) {
         Student kunal = new Student(12, 89.5f);
         Student rahul = new Student(15,98.5f);

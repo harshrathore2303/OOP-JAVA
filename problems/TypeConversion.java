@@ -13,5 +13,10 @@ public class TypeConversion {
         Integer s = 7;
         Double d = s; // this will give compile time error
 
+
+        // lossy convertion if from large to small 
+        short x = 10;
+        x =  x * 5; // cannot convert from int to short (large to small)
+        System.out.print(x);
     }
 }

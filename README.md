@@ -7,7 +7,7 @@
 - Assember Vs Interpreter Vs Compiler
 - Source Code in Java (public class, main method, command line arguments, Why use command line arguments?, System.out.println())
 - Basic Syntax
-- OOP (4 pillars with examples, Access modifiers, static, this)
+- OOP (4 pillars with examples, Access modifiers, static, this, final, abstract, datatypes, fields)
 - Annotations
 - Interfaces
 - Enums

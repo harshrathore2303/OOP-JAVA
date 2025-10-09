@@ -2,20 +2,20 @@ package interfaces;
 
 public class Main {
     public static void main(String[] args) {
-//        Engine car = new Car();
-//
-//        car.acc();
-//        car.start();
-//        car.stop();
+       Engine car = new Car();
 
-//        Media carMedia = new Car();
-//        carMedia.stop();
+       car.acc();
+       car.start();
+       car.stop();
 
-        NiceCar car = new NiceCar();
+       Media carMedia = new Car();
+       carMedia.stop();
 
-        car.start();
-        car.startMusic();
-        car.stopMusic();
-        car.upgradeEngine();
+        // NiceCar car = new NiceCar();
+
+        // car.start();
+        // car.startMusic();
+        // car.stopMusic();
+        // car.upgradeEngine();
     }
 }

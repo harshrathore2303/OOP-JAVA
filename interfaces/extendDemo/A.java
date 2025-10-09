@@ -1,5 +1,7 @@
 package interfaces.extendDemo;
 
 public interface A{
-    void fun();
+    static void fun(){
+        System.out.println();
+    };
 }

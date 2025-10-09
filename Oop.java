@@ -14,7 +14,7 @@ public class Oop{
         
         //passing object to constructor
         //new keyword is used to create the object of student
-        //new allocates the new memory for kunal and returns a reference to kunal means from way from kunal to address, memory is allocated for it on the heap.
+        //new allocates the new memory for kunal and returns a reference to kunal means form way from kunal to address, memory is allocated for it on the heap.
         //The stack stores a reference (a memory address) to the object in the heap.
         Student random = new Student(kunal);
         System.out.println(random.name);

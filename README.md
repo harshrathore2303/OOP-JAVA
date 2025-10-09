@@ -18,3 +18,4 @@
 - Also read about garbage collection by overriding finalize() method from Object class
 - Covariant method overriding
 - Checked and Unchecked exceptions
+- Types of classes -- Refer to gfg article

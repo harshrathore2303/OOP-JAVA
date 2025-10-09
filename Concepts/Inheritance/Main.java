@@ -16,7 +16,7 @@ public class Main {
 
         // here boxweight class knows what this box contains that is why obj is created but this obj cannot access boxweight class variables
         Box box1 = new BoxWeight(4,5,6,8);
-        
+
         // here error is because Box class doesnot have idea what boxWeight class contains
         // BoxWeight boxw1 = new Box();
 

@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Main {
     // public: Accessible from anywhere so the JVM can call it.
     // static: No object of the class is needed to run it.
@@ -22,6 +24,8 @@ public class Main {
         // 1) Pass runtime configurations (e.g., sorting order, file paths, mode selection).
         // 2) Avoid hardcoding values.
         // 3) Increase flexibility without recompiling.
+
+        ArrayList<Integer> list = new ArrayList<>();
     }
 
     static public void name(){

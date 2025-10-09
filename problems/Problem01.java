@@ -7,7 +7,7 @@ public class Problem01{
         int Problem01 = 4;
         int Integer = 2;
         char String = 'H';
-
+        
         System.out.println(Integer);
         System.out.println(String);
     }

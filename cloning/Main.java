@@ -1,7 +1,7 @@
 package cloning;
 
 public class Main {
-    public static void main(String[] args)  throws CloneNotSupportedException {
+    public static void main(String[] args) throws CloneNotSupportedException {
         Human harsh = new Human(19, "Harsh");
 //        Human twin = new Human(harsh);
 

@@ -23,6 +23,11 @@ class Test extends demo
         this.a = a;
     }
 
+    @Override
+    public void set() {
+
+    }
+
     final public void get()
     {
         System.out.println("a = " + a);
